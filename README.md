@@ -1,7 +1,7 @@
 # 카드 맞추기 게임
 게임 개발 소모임의 게임잼에서 진행한 프로젝트([소스코드](https://github.com/EGURGINE/CardMatchGame/tree/main/CardGame/Assets/Scripts))<br>
 
-Unity를 사용하여 개발<br>
+Unity, C#을 사용하여 개발<br>
 
 역할: 인게임 UI 개발
 

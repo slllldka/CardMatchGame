@@ -3,10 +3,12 @@
 
 Unity, C#을 사용하여 개발<br>
 
-역할: 인게임 UI 개발
+역할: 인게임 UI(남은시간, 스테이지, 생존확률 및 게임 결과창) 개발
 
 개발 기간: 2023/10<br><br>
 
+# 게임 영상
+https://github.com/user-attachments/assets/3af2e772-d86b-40e4-8c86-d6662678ec2a
 
 # 프로젝트 설명
 ### 1. 시작화면

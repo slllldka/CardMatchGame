@@ -1,4 +1,5 @@
 # 카드 맞추기 게임
+### 소개
 게임 개발 소모임 내 게임잼에서 진행한 프로젝트([소스코드](https://github.com/EGURGINE/CardMatchGame/tree/main/CardGame/Assets/Scripts))<br>
 
 Unity, C#을 사용하여 개발<br>
@@ -6,6 +7,12 @@ Unity, C#을 사용하여 개발<br>
 역할: 인게임 UI(남은시간, 스테이지, 생존확률 및 게임 결과창) 개발
 
 개발 기간: 2023/10<br>
+
+### 참여 동기
+게임잼에 대한 호기심<br>
+
+그동안 개인 프로젝트 경험밖에 없었기 때문에<br>
+협업 프로젝트를 경험해보고자 참여<br>
 
 # 게임 영상
 https://github.com/user-attachments/assets/3af2e772-d86b-40e4-8c86-d6662678ec2a

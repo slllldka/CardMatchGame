@@ -1,11 +1,11 @@
 # 카드 맞추기 게임
-게임 개발 소모임의 게임잼에서 진행한 프로젝트([소스코드](https://github.com/EGURGINE/CardMatchGame/tree/main/CardGame/Assets/Scripts))<br>
+게임 개발 소모임 내 게임잼에서 진행한 프로젝트([소스코드](https://github.com/EGURGINE/CardMatchGame/tree/main/CardGame/Assets/Scripts))<br>
 
 Unity, C#을 사용하여 개발<br>
 
 역할: 인게임 UI(남은시간, 스테이지, 생존확률 및 게임 결과창) 개발
 
-개발 기간: 2023/10<br><br>
+개발 기간: 2023/10<br>
 
 # 게임 영상
 https://github.com/user-attachments/assets/3af2e772-d86b-40e4-8c86-d6662678ec2a
@@ -34,4 +34,9 @@ https://github.com/user-attachments/assets/3af2e772-d86b-40e4-8c86-d6662678ec2a
 생존했다면 구출된 고양이를 보여주고, 다음 스테이지로 넘어갑니다.<br>
 
 <img src="https://github.com/user-attachments/assets/f7dc2727-bd8c-47e3-9d01-6c12536693db" width="480" height="270"/><br>
-생존에 실패했거나 제한 시간이 모두 지났다면 구출한 고양이를 모두 보여주고 시작화면으로 돌아갑니다.
+생존에 실패했거나 제한 시간이 모두 지났다면 구출한 고양이를 모두 보여주고 시작화면으로 돌아갑니다.<br>
+
+# 좋았던 점
+처음으로 협업을 통한 게임 제작<br>
+팀원들과 아이디어를 공유하며 게임의 완성도를 높이는 과정이 재미있었음<br>
+개인의 작업물을 하나로 합친 후 발생한 버그를 해결하며 읽기 좋은 코드를 작성하는 것의 중요성을 느낌<br>
